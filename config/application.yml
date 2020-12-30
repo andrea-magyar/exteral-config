@@ -12,3 +12,5 @@ logging:
 file-location:
   static:
     file:/opt/test/app/static/
+name:
+  user: "Andrea"
